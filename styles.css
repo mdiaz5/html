@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(236, 212, 216);
+}
+
+p {
+    text-align: justify;
+    line-height: 1.6;
+    color: rgb(49, 9, 16);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    background-color: rgb(58, 206, 181);
+    font-weight: bold;
+    padding: 5px;
+}
+
+.previous {
+    font-weight: bold
+}
+
+.celebrate {
+    margin-top: 10px;
+}
+
+.meaning {
+    margin-bottom: 10px;
+}
+
+.flores {
+    width: 300px;
+    border: 20px ridge rgb(62, 73, 11);
+    margin-top: 10px;
+}
+
+.patron {
+    margin-left: 100px;
+    border: 10px double rgb(13, 13, 66);
+}
+
+.various {
+    text-transform: uppercase;
+    width: 500px;
+    margin-right: 100px;
+}
+
+.phill {
+    margin-bottom: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 10px double rgb(255, 136, 0);
+}
